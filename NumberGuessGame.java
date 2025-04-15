@@ -18,7 +18,7 @@ public class NumberGuessGame
             int maxAttempts = 5;
             boolean hasGuessed = false;
 
-            System.out.println(" Guess the number between 1 and 100");
+            System.out.println(" Guess the number between 1 and 100 ");
             System.out.println(" You have " + maxAttempts + " attempts.");
 
             while (attempts < maxAttempts) {
